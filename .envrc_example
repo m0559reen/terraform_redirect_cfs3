@@ -1,0 +1,7 @@
+export AWS_REGION=ap-northeast-1
+
+export AWS_ACCESS_KEY_ID=XXXXXXX
+export AWS_SECRET_ACCESS_KEY=XXXXXXX
+
+# keyではなくaws profile利用の場合は以下
+export AWS_PROFILE=XXXXXXX
