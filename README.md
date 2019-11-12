@@ -31,7 +31,7 @@ SSL証明書を別途ACMで取得していることを前提としたつくり�
 1. set env
 (direnv使用が前提) 以下どちらかの環境変数を設定(参照: .envrc_example)
 
-- `AWS_PROFILE`
+- `AWS_PROFILE`
 - `AWS_ACCESS_KEY_ID` 及び `AWS_SECRET_ACCESS_KEY`
 
 ```bash
